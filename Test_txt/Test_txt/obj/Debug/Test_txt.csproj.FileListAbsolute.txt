@@ -1,0 +1,11 @@
+G:\PRG\Test_Txt\Test_txt\Test_txt\bin\Debug\Test_txt.exe.config
+G:\PRG\Test_Txt\Test_txt\Test_txt\bin\Debug\Test_txt.exe
+G:\PRG\Test_Txt\Test_txt\Test_txt\bin\Debug\Test_txt.pdb
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.csproj.AssemblyReference.cache
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.csproj.SuggestedBindingRedirects.cache
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.Form1.resources
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.Properties.Resources.resources
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.csproj.GenerateResource.cache
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.csproj.CoreCompileInputs.cache
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.exe
+G:\PRG\Test_Txt\Test_txt\Test_txt\obj\Debug\Test_txt.pdb
